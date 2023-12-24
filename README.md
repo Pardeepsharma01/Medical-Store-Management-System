@@ -22,9 +22,9 @@
 - ### Medicine Module:
    Allows users to view all available medicines and provides functionality for inserting, updating, and deleting medicine records, ensuring precise inventory management.
 
-- ##![Screenshot (31)](https://github.com/Pardeepsharma01/Medical-Store-Management-System/assets/122151205/e9f788ed-93de-4c47-ac04-c9ff361e2baa)
+- ![Screenshot (31)](https://github.com/Pardeepsharma01/Medical-Store-Management-System/assets/122151205/e9f788ed-93de-4c47-ac04-c9ff361e2baa)
   
-# Company Module:
+- ### Company Module:
    Enables users to view a list of pharmaceutical companies whose medicines are in stock, with options to insert, update, or delete company details.
    
 ![Screenshot (32)](https://github.com/Pardeepsharma01/Medical-Store-Management-System/assets/122151205/76a16422-ff01-4891-ae98-45e2db38f91a)
